@@ -45,7 +45,7 @@ function App() {
             className="coin-input"
             type="text"
             onChange={handleChange}
-            placeholder="Search a coin"
+            placeholder="Search a coin 🔎..."
           />
         </form>
       </div>
